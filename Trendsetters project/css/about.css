@@ -1,0 +1,46 @@
+/* Reset default browser styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+/* Styling for header and navigation */
+header {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+}
+
+nav {
+    /* Styling for navigation menu */
+}
+
+/* Styling for footer */
+footer {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}

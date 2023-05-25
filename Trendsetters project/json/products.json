@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Essentials White Hoodie",
+    "price": 420.69,
+    "image": "assets/1.jpg",
+    "description": "Soft fleece knit, Long sleeves, Hooded neckline, Front kanga pocket, Gap arch logo applique at front.",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "name": "GAP Green Hoodie",
+    "price": 100.00,
+    "image": "assets/2.jpg",
+    "description": "Soft fleece knit, Long sleeves, Hooded neckline, Front kanga pocket, Gap arch logo applique at front.",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "name": "Cream Curdoroy Pants",
+    "price": 500.00,
+    "image": "assets/3.jpg",
+    "description": "77% Cotton, 23% Polyester, Machine wash, Imported.",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "name": "Navy Blue Curdoroy Pants",
+    "price": 800.00,
+    "image": "assets/4.jpg",
+    "description": "77% Cotton, 23% Polyester, Machine wash, Imported.",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "name": "Knitted Top",
+    "price": 420.69,
+    "image": "assets/5.jpg",
+    "description": "Pattern: Plain, Clothing Material: Cotton, Pants Fit: Loose, Fashion Style: Korean"
+    
+  },
+  {
+    "id": 6,
+    "name": "Knitted Top Korean Style Outfit",
+    "price": 100.00,
+    "image": "assets/6.jpg",
+    "description": "Straight silhouette with a relaxed fit, Hits at the hip, Pullover style."
+  },
+  {
+    "id": 7,
+    "name": "Brooklyn Nets White Tank Tops",
+    "price": 500.00,
+    "image": "assets/7.jpg",
+    "description": "Tank Top Sando Gym Workout For Men Tank Tops Sando Sleeveless White Black Muscle mens"
+  },
+  {
+    "id": 8,
+    "name": "Curdoroy Black Crop Top",
+    "price": 800.00,
+    "image": "assets/9.jpg",
+    "description": "99% Polyester, 1% Elastane, Machine wash or professional dry clean."
+  }
+]
